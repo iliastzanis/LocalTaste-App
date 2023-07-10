@@ -28,3 +28,10 @@ To run the LocalTaste mobile application on your Android device, follow these st
 For any questions or inquiries about the LocalTaste mobile application, please contact our development team [here](mailto:localtasteproject@gmail.com).
 
 Thank you for your interest in LocalTaste! We hope you enjoy exploring the culinary delights of Corfu.
+
+## Development Team
+
+- [Christiana Krielesi](https://github.com/chrikri)
+- [Katerina Makridou](https://github.com/kmakridou)
+- [Ilias Tzanis](https://github.com/iliastzanis)
+
